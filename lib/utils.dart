@@ -24,5 +24,6 @@ bool isTimeSlotAvailable({
       return false;
     }
   }
+
   return true;
 }
